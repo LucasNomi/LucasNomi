@@ -20,11 +20,11 @@ Estudo na Etec Antônio da Pádua Cardoso, 2° Ano de Desenvolvimento de Sistema
 #Stats
 <div>
   <a href="https://github.com/LucasNomi">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNomi&theme=chartreuse-dark&show_icons=true&count_private=true"/>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNomi&layout=compact&theme=chartreuse-dark&count=16"/>
-</div><br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNomi&theme=chartreuse-dark&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNomi&layout=compact&theme=chartreuse-dark&count=16"/>
+</div>
   
-  <div style="display: inline_block">
+  <div style="display: inline_block"><br/>
   <a href="https://github.com/LucasNomi">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
