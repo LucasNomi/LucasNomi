@@ -19,16 +19,16 @@ Minha linguagem principal é: C# (mesmo eu não tendo 1 rep. usando ela 🤪)<br
 <b>Estudando:</b> HTML, CSS E JS
 
 #Stats
-<div style="display: inline_block">
+<div>
+  <a href="https://github.com/LucasNomi">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNomi&theme=chartreuse-dark&show_icons=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNomi&layout=compact&theme=chartreuse-dark&count=16"/>
+</div><br>
+  <div style="display: inline_block">
   <a href="https://github.com/LucasNomi">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div><br>
-<div>
-  <a href="https://github.com/LucasNomi">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNomi&theme=chartreuse-dark&show_icons=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNomi&layout=compact&theme=chartreuse-dark&count=16"/>
-</div>
+</div><
 
