@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h1>Olá, eu sou o Lucas (:</h1>
 Estudo na Etec Antônio da Pádua Cardoso, 3° Ano de Desenvolvimento de Sistemas 👾.<br>
 
-<b>Estudando:</b> HTML, CSS E JS
+<b>Estudando:</b> JavaScript
 
 <div style="display: inline_block"><br/>
   <a href="https://github.com/LucasNomi">
