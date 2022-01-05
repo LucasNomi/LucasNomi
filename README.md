@@ -11,9 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>Olá, eu sou o Lucas (:</h1>
-
-Sou um entusiasta de programação e pretendo seguir carreira nisso! 👾<br>
-Estudo na Etec Antônio da Pádua Cardoso, 2° Ano de Desenvolvimento de Sistemas.<br>
+Estudo na Etec Antônio da Pádua Cardoso, 3° Ano de Desenvolvimento de Sistemas 👾.<br>
 
 <b>Estudando:</b> HTML, CSS E JS
 
