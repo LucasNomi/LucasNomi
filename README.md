@@ -10,10 +10,10 @@ LucasNomi/LucasNomi is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>Olá, eu sou o Lucas (:</h1>
-Estudo na Etec Antônio da Pádua Cardoso, 3° Ano de Desenvolvimento de Sistemas 👾.<br>
+<h1>Hi! i'm Lucas</h1>
+'i'm Student of Software Development in Etec Antonio de Paula Cardoso, current on my third year of highschool 👾.<br>
 
-<b>Estudando:</b> JavaScript
+<b>Learning:</b> JavaScript
 
 <div style="display: inline_block"><br/>
   <a href="https://github.com/LucasNomi">
