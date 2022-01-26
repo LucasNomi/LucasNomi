@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>Hi! i'm Lucas</h1>
-'i'm Student of Software Development in Etec Antonio de Paula Cardoso, current on my third year of highschool 👾.<br>
+i'm a Student of Software Development in Etec Antonio de Paula Cardoso, current on my third year of highschool 👾.<br>
 
 <b>Learning:</b> JavaScript
 
