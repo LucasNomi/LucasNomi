@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>Hi! i'm Lucas</h1>
-i'm a Software Development student in Etec Antonio de Paula Cardoso, current on my third year of highschool/course 👾.<br>
+i'm a Software Development student in Etec Antonio de Paula Cardoso, current on my third year of highschool/course 👾.<br /><br/>
 
 <b>Learning:</b> JavaScript and Flutter
 
-<h3>Languages I work/worked with:</h3>
+<h4>Languages I work/worked with:</h4>
 <div style="display: inline_block"><br/>
   <a href="https://github.com/LucasNomi">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
@@ -23,7 +23,7 @@ i'm a Software Development student in Etec Antonio de Paula Cardoso, current on 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
-</div><br/>
+</div><br/><br/>
   
 <div>
   <a href="https://github.com/LucasNomi">
