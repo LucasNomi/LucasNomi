@@ -11,16 +11,18 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>Hi! i'm Lucas</h1>
-i'm a Student of Software Development in Etec Antonio de Paula Cardoso, current on my third year of highschool 👾.<br>
+i'm a Software Development student in Etec Antonio de Paula Cardoso, current on my third year of highschool/course 👾.<br>
 
-<b>Learning:</b> JavaScript
+<b>Learning:</b> JavaScript and Flutter
 
+<h3>Languages I work/worked with:</h3>
 <div style="display: inline_block"><br/>
   <a href="https://github.com/LucasNomi">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
 </div><br/>
   
 <div>
