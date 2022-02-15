@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>Hi! i'm Lucas</h1>
-i'm a Software Development student in Etec Antonio de Paula Cardoso, current on my third year of highschool/course 👾.<br /><br/>
+i'm a Software Development student in Etec Antonio de Paula Cardoso - Brodowski, current on my third year of highschool/course 👾.<br /><br/>
 
 <b>Learning:</b> JavaScript and Flutter
 
-<h4>Languages that I work/worked with:</h4>
+<h4>I work/worked with:</h4>
 <div style="display: inline_block"><br/>
   <a href="https://github.com/LucasNomi">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
@@ -28,8 +28,8 @@ i'm a Software Development student in Etec Antonio de Paula Cardoso, current on 
 <h4>You can find me in:<h4>
 <div style="display: inline_block">
   <a href="https://twitter.com/LucasNomi01"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">
-  <!--<a href="https://www.youtube.com/"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-  </div>--><br /><br />
+  <!--<a href="https://www.youtube.com/"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">-->
+  </div><br /><br />
   
 <div>
   <a href="https://github.com/LucasNomi">
