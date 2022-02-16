@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>Hi! i'm Lucas</h1>
-i'm a Software Development student in Etec Antonio de Paula Cardoso - Brodowski, current on my third year of highschool/course 👾.<br /><br/>
+Software Development, Etec Antonio de Paula Cardoso - Brodowski, current on my third year of highschool/course 👾.<br /><br/>
 
 <b>Learning:</b> JavaScript and Flutter
 
