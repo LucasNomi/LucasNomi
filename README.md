@@ -1,31 +1,18 @@
 
-<!---
-- 👋 Hi, I’m @LucasNomi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-LucasNomi/LucasNomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1>Hi! i'm Lucas</h1>
-Software Development, Etec Antonio de Paula Cardoso - Brodowski, current on my third year of highschool/course 👾.<br /><br/>
+Software Development, I study at Etec Antonio de Paula Cardoso - Brodowski, current on my third year of highschool/course 👾.<br /><br/>
 
-<b>Learning:</b> JavaScript and Flutter
+<b>Learning:</b> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"/>
 
-<h4>I work/worked with:</h4>
-<div style="display: inline_block"><br/>
-  <a href="https://github.com/LucasNomi">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
-</div><br />
+<h4>Main languages:</h4>
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg"/>
+</div>
 
-<h4>You can find me in:<h4>
+<h4>Social:</h4>
 <div style="display: inline_block">
   <a href="https://twitter.com/LucasNomi01"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">
   <!--<a href="https://www.youtube.com/"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">-->
