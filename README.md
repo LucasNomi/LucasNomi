@@ -11,7 +11,7 @@
     <h3>  Frameworks & Libs: </h3>
 
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
+ 
   <h3> Languages:</h3>
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -28,6 +28,15 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
   </div>
+</div>
+
+# 🌐Social
+
+<div align="center">
+
+<a href="https://twitter.com/LucasNomiDev">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/lucas-souza-987358247/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 </div>
 
 # ⚡Github Streak
