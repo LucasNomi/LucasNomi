@@ -1,27 +1,37 @@
 
-<h1>Hi! i'm Lucas</h1>
-Software Development, I study at Etec Antonio de Paula Cardoso - Brodowski, current on my third year of highschool/course 👾.<br /><br/>
+# Hello, I'm LucasNomi!
 
-<b>Learning:</b> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"/>
+- I'm a student of systems development at ETEC Antônio de Pádua Cardoso.
+- Looking for a job. 👀
 
-<h4>Main languages:</h4>
-<div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg"/>
+# 🛠 My tools
+
+<div align="center">
+  <div> 
+    <h3>  Frameworks & Libs: </h3>
+
+ ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+  <h3> Languages:</h3>
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+<h3> operating systems: </h3>
+
+![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF&color=000000)
+![Windows](https://img.shields.io/badge/Windows-C.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF&color=000000)
+
+<h3> others tools: </h3>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+  </div>
 </div>
 
-<h4>Social:</h4>
-<div style="display: inline_block">
-  <a href="https://twitter.com/LucasNomi01"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">
-  <!--<a href="https://www.youtube.com/"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">-->
-  </div><br /><br />
-  
-<div>
-  <a href="https://github.com/LucasNomi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNomi&theme=chartreuse-dark&show_icons=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNomi&layout=compact&theme=chartreuse-dark&count=16"/>
+# ⚡Github Streak
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=LucasNomi&theme=neon-dark&hide_border=true&background=DD272700">
 </div>
-
-
