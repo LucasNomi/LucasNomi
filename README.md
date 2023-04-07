@@ -1,7 +1,8 @@
 
 # Hello, I'm LucasNomi!
 
-- I'm a student of systems development at ETEC Antônio de Pádua Cardoso.
+- I'm a Software Developer.
+- Currently studying  Systems Analysis and Development at Fatec Ribeirão Preto
 - Looking for a job. 👀
 
 # 🛠 My tools
@@ -15,6 +16,7 @@
   <h3> Languages:</h3>
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <h3> operating systems: </h3>
 
