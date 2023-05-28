@@ -1,5 +1,5 @@
 
-# Hello, I'm LucasNomi!
+# Hello, I'm Lucas!
 
 - I'm a Software Developer.
 - Currently studying  Systems Analysis and Development at Fatec Ribeirão Preto
@@ -8,41 +8,31 @@
 # 🛠 My tools
 
 <div align="center">
-  <div> 
-    <h3>  Frameworks & Libs: </h3>
+  
+  ### Technologies & Frameworks
+  <a href="https://github.com/LucasNomi">![.NET](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=.net&logoColor=white)</a>
+  <a href="https://github.com/LucasNomi">![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure&logoColor=white)</a>
+  <a href="https://github.com/LucasNomi">![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)</a>
 
- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
- 
-  <h3> Languages:</h3>
+  ### Languages
+  <a href="https://github.com/LucasNomi">![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=white)</a>
+  <a href="https://github.com/LucasNomi">![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp&logoColor=white)</a>
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ### OS
+  <a href="https://github.com/LucasNomi">![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white)</a>
+  <a href="https://github.com/LucasNomi">![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=white)</a>
 
-<h3> operating systems: </h3>
+  ### Other Tools
+  <a href="https://github.com/LucasNomi">![GIT](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)</a>
+  <a href="https://github.com/LucasNomi">![Visual Studio](https://img.shields.io/badge/visual%20studio-black?style=for-the-badge&logo=visualstudio&logoColor=white)</a>
 
-![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF&color=000000)
-![Windows](https://img.shields.io/badge/Windows-C.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF&color=000000)
-
-<h3> others tools: </h3>
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-  </div>
 </div>
 
 # 🌐Social
-
 <div align="center">
-
-<a href="https://twitter.com/LucasNomi01">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/lucas-souza-987358247/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  
+<a href="https://twitter.com/LucasNomi01">![Twitter](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/lucas-souza-nomi/">![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 </div>
 
-# ⚡Github Streak
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=LucasNomi&theme=neon-dark&hide_border=true&background=DD272700">
-</div>
