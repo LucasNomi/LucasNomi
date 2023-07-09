@@ -2,7 +2,7 @@
 # Hello, I'm Lucas!
 
 - I'm a Software Developer.
-- Currently studying  Systems Analysis and Development at Fatec Ribeirão Preto
+- Graduating in Systems Analysis and Development at Faculdade de Tecnologia de Ribeirão Preto (FATEC)
 - Looking for a job. 👀
 
 # 🛠 My tools
@@ -26,6 +26,7 @@
   ### Other Tools
   <a href="https://github.com/LucasNomi">![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)</a>
   <a href="https://github.com/LucasNomi">![Vim](https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim&logoColor=white)</a>
+  <a href="https://github.com/LucasNomi">![Emacs](https://img.shields.io/badge/emacs-black?style=for-the-badge&logo=gnu-emacs&logoColor=white)</a>
 
 </div>
 
