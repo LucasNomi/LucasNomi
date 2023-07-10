@@ -5,6 +5,12 @@
 - Graduating in Systems Analysis and Development at Faculdade de Tecnologia de Ribeirão Preto (FATEC)
 - Looking for a job. 👀
 
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/lucas-souza-nomi/">![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+</div>
+
 # 🛠 My tools
 
 <div align="center">
@@ -27,14 +33,6 @@
   <a href="https://github.com/LucasNomi">![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)</a>
   <a href="https://github.com/LucasNomi">![Vim](https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim&logoColor=white)</a>
   <a href="https://github.com/LucasNomi">![Emacs](https://img.shields.io/badge/emacs-black?style=for-the-badge&logo=gnu-emacs&logoColor=white)</a>
-
-</div>
-
-# 🌐Social
-<div align="center">
-  
-<a href="https://twitter.com/LucasNomi01">![Twitter](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/lucas-souza-nomi/">![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 </div>
 
