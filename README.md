@@ -1,38 +1,57 @@
+# :wave: Welcome to my profile :wave:
 
-# Hello, I'm Lucas!
+## I'm Lucas de Souza
+- A software developer currently graduating at [Faculdade de Tecnologia de Ribeirão Preto - Fatec RP](http://fatecrp.edu.br)
+- A Technology Enthusiast
+- A white theme lover
 
-- I'm a Software Developer.
-- Graduating in Systems Analysis and Development at Faculdade de Tecnologia de Ribeirão Preto (FATEC)
-- Looking for a job. 👀
+I'm aways honing my skills at programming and, of course, being a better human being. 
+I love books, films, anime. My all-time favorite anime is Steins;Gate, you should look it out! :wink:
 
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/lucas-souza-nomi/">![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+## Contact Me
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-</div>
+## Languages 
+| Language                                                                                                  | Confidence |
+|-----------------------------------------------------------------------------------------------------------|------------|
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)             | :smile:    |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   | :smile:    |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | :grin:     |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)    | :smile:    |
 
-# 🛠 My tools
+## Technologies, Frameworks & Tools
+| Operating Systems                                                                                            | Confidence |
+|--------------------------------------------------------------------------------------------------------------|------------|
+| ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)     | :grin:     |
+| ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)        | :grin:     |
+| ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white) | :worried:  |
 
-<div align="center">
-  
-  ### Technologies & Frameworks
-  <a href="https://github.com/LucasNomi">![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure&logoColor=white)</a>
-  <a href="https://github.com/LucasNomi">![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)</a>
+| Editors                                                                                                                                           | Confidence |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)                                    | :grin:     |
+| ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)                                               | :worried:  |
+| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | :grin:     |
 
-  ### Languages
-  <a href="https://github.com/LucasNomi">![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white)</a>
-  <a href="https://github.com/LucasNomi">![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=white)</a>
-  <a href="https://github.com/LucasNomi">![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white)</a>
-  <a href="https://github.com/LucasNomi">![Shell](https://img.shields.io/badge/shell%20script-black?style=for-the-badge&logo=gnu-bash&logoColor=white)</a>
+| Virtualization and Orchestration                                                                             | Confidence |
+|--------------------------------------------------------------------------------------------------------------|------------|
+| ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | :worried:  |
 
-  ### OS
-  <a href="https://github.com/LucasNomi">![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white)</a>
-  <a href="https://github.com/LucasNomi">![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=white)</a>
+| Cloud                                                                                                              | Confidence |
+|--------------------------------------------------------------------------------------------------------------------|------------|
+| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | :smile:    |
 
-  ### Other Tools
-  <a href="https://github.com/LucasNomi">![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)</a>
-  <a href="https://github.com/LucasNomi">![Vim](https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim&logoColor=white)</a>
-  <a href="https://github.com/LucasNomi">![Emacs](https://img.shields.io/badge/emacs-black?style=for-the-badge&logo=gnu-emacs&logoColor=white)</a>
+| Frameworks                                                                                                      | Confidence |
+|-----------------------------------------------------------------------------------------------------------------|------------|
+| ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | :worried:  |
 
-</div>
+| Tools                                                                                               | Confidence |
+|-----------------------------------------------------------------------------------------------------|------------|
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | :grin:     |
 
+## Stats
+[![LucasNomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasNomi&hide=stars)](https://github.com/LucasNomi/)
+
+## Acknowledgements
+- [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+- [Markdown Emojis](https://github.com/markdown-templates/markdown-emojis)
+- [Github Stats](https://github.com/anuraghazra/github-readme-stats)
